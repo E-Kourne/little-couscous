@@ -1,0 +1,10 @@
+{
+  "name": "little-planets",
+  "version": "1.0.0",
+  "description": "Little Planets - Suika Game with planets",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve public",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
